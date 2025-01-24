@@ -35,10 +35,18 @@ body {
         text-decoration: underline;
     }
 }
+/* 
+
+    BUGTUNES.SCOT.WTF
+    - Written by scot
+    
+    <3 ty for making this site bug
+
+*/
 
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #131521;
+        background-color: #131522;
         background-image: url('./img/darknoisybg.png');
         color: #e0e3ee;
     }
@@ -59,9 +67,17 @@ body {
         text-decoration: underline;
     }
 }
+/* 
+
+    BUGTUNES.SCOT.WTF
+    - Written by scot
+    
+    <3 ty for making this site bug
+
+*/
 
 a:visited {
-    color: #9970b9;
+    color: #9970b8;
     color:var(--color);
     background-color: transparent;
     text-decoration: none;
@@ -69,9 +85,53 @@ a:visited {
 
 h1 {
     font-weight: bolder;
-    font-size: 350%;
+    font-size: 340%;
 }
 
 h2 {
-    font-weight: 500;
+    font-weight: 200;
 }
+
+
+
+/* 
+
+    BUGTUNES.SCOT.WTF
+    - Written by scot
+    
+    <3 ty for making this site bug
+
+*/
+
+/* 
+
+    BUGTUNES.SCOT.WTF
+    - Written by scot
+    
+    <3 ty for making this site bug
+
+*/
+/* 
+
+    BUGTUNES.SCOT.WTF
+    - Written by scot
+    
+    <3 ty for making this site bug
+
+*/
+/* 
+
+    BUGTUNES.SCOT.WTF
+    - Written by scot
+    
+    <3 ty for making this site bug
+
+*/
+/* 
+
+    BUGTUNES.SCOT.WTF
+    - Written by scot
+    
+    <3 ty for making this site bug
+
+*/
